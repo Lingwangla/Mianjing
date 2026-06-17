@@ -1,20 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "卡码信息",
+      "path": "项目/卡码信息.md"
+    },
+    {
       "basename": "面试历史",
       "path": "wiki/dashboard/面试历史.md"
     },
     {
-      "basename": "TT SRE 二面",
-      "path": "公司/TT/SRE/TT SRE 二面.md"
+      "basename": "代码随想录项目精讲系列-仿牛客论坛项目",
+      "path": "项目/代码随想录项目精讲系列-仿牛客论坛项目.pdf"
+    },
+    {
+      "basename": "卡码网盘",
+      "path": "项目/卡码网盘.md"
+    },
+    {
+      "basename": "主题",
+      "path": "wiki/索引/主题.md"
+    },
+    {
+      "basename": "用友数据迁移",
+      "path": "wiki/追问/用友数据迁移.md"
+    },
+    {
+      "basename": "插件设置",
+      "path": "wiki/插件设置.md"
+    },
+    {
+      "basename": "黑马点评秒杀",
+      "path": "wiki/追问/黑马点评秒杀.md"
+    },
+    {
+      "basename": "README",
+      "path": "wiki/模板/README.md"
+    },
+    {
+      "basename": "新追问QA",
+      "path": "wiki/模板/新追问QA.md"
+    },
+    {
+      "basename": "新主题文章",
+      "path": "wiki/模板/新主题文章.md"
+    },
+    {
+      "basename": "新面经原文",
+      "path": "wiki/模板/新面经原文.md"
+    },
+    {
+      "basename": "新公司画像",
+      "path": "wiki/模板/新公司画像.md"
+    },
+    {
+      "basename": "录音转面经",
+      "path": "wiki/模板/录音转面经.md"
+    },
+    {
+      "basename": "RAG优化全链路",
+      "path": "wiki/技术主题/RAG优化全链路.md"
+    },
+    {
+      "basename": "TCP与HTTPS",
+      "path": "wiki/技术主题/TCP与HTTPS.md"
+    },
+    {
+      "basename": "RPC与Netty",
+      "path": "wiki/技术主题/RPC与Netty.md"
+    },
+    {
+      "basename": "消息队列不丢不重",
+      "path": "wiki/技术主题/消息队列不丢不重.md"
+    },
+    {
+      "basename": "ElasticSearch 核心理念与高频面试考点",
+      "path": "wiki/技术主题/ElasticSearch 核心理念与高频面试考点.md"
+    },
+    {
+      "basename": "RocketMQ事务消息",
+      "path": "wiki/技术主题/RocketMQ事务消息.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "wiki/技术主题/设计模式.md"
+    },
+    {
+      "basename": "RocketMQ 顺序消息、重试机制与 Rebalance 深度笔记",
+      "path": "wiki/技术主题/RocketMQ 顺序消息、重试机制与 Rebalance 深度笔记.md"
+    },
+    {
+      "basename": "小鹅通一面面经（带答案已OC）",
+      "path": "公司/小鹅通/我的/小鹅通一面面经（带答案已OC）.md"
+    },
+    {
+      "basename": "限流熔断容错",
+      "path": "wiki/技术主题/限流熔断容错.md"
+    },
+    {
+      "basename": "数据迁移与一致性",
+      "path": "wiki/技术主题/数据迁移与一致性.md"
+    },
+    {
+      "basename": "缓存一致性",
+      "path": "wiki/技术主题/缓存一致性.md"
+    },
+    {
+      "basename": "小鹅通二面面经（结果未知）Cider一面面经（通过）",
+      "path": "公司/小鹅通/我的/小鹅通二面面经（结果未知）Cider一面面经（通过）.md"
+    },
+    {
+      "basename": "如何在面试中介绍自己的项目经验.md",
+      "path": "wiki/笔试面试技巧/如何在面试中介绍自己的项目经验.md.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "wiki/我的简历/Untitled.md"
+    },
+    {
+      "basename": "秒杀系统",
+      "path": "wiki/技术主题/秒杀系统.md"
     },
     {
       "basename": "使用指南",
       "path": "wiki/使用指南.md"
     },
     {
+      "basename": "三次握手四次挥手 TCP可靠传输",
+      "path": "Excalidraw/三次握手四次挥手 TCP可靠传输.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "TT SRE 二面",
+      "path": "公司/TT/SRE/TT SRE 二面.md"
     },
     {
       "basename": "TT-TikTok",
@@ -23,14 +143,6 @@
     {
       "basename": "README",
       "path": "wiki/README.md"
-    },
-    {
-      "basename": "主题",
-      "path": "wiki/索引/主题.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "PingCAP",
@@ -45,16 +157,8 @@
       "path": "wiki/追问/西门子RAG.md"
     },
     {
-      "basename": "插件设置",
-      "path": "wiki/插件设置.md"
-    },
-    {
       "basename": "README",
       "path": "wiki/dashboard/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "wiki/模板/README.md"
     },
     {
       "basename": "我的字节一面",
@@ -65,24 +169,12 @@
       "path": "未命名.md"
     },
     {
-      "basename": "卡码信息",
-      "path": "项目/卡码信息.md"
-    },
-    {
-      "basename": "代码随想录项目精讲系列-仿牛客论坛项目",
-      "path": "项目/代码随想录项目精讲系列-仿牛客论坛项目.pdf"
-    },
-    {
       "basename": "Java多线程 并发",
       "path": "后端技术专栏/Java多线程 并发.md"
     },
     {
       "basename": "JVM内存结构",
       "path": "Excalidraw/JVM内存结构.md"
-    },
-    {
-      "basename": "三次握手四次挥手 TCP可靠传输",
-      "path": "Excalidraw/三次握手四次挥手 TCP可靠传输.md"
     },
     {
       "basename": "RPC框架整理后",
@@ -107,14 +199,6 @@
     {
       "basename": "Java多线程 并发",
       "path": "Java后端技术专栏/Java多线程 并发.md"
-    },
-    {
-      "basename": "Java并发编程",
-      "path": "Java后端技术专栏/Java并发编程.md"
-    },
-    {
-      "basename": "Netty",
-      "path": "Java后端技术专栏/Netty.md"
     }
   ],
   "omittedPaths": [],

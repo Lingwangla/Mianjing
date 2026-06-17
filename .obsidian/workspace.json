@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/dashboard/面试历史.md",
+                "file": "wiki/追问/用友数据迁移.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试历史"
+              "title": "用友数据迁移"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/索引/主题.md",
+                "file": "项目/卡码信息.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主题"
+              "title": "卡码信息"
             }
           },
           {
@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/dashboard/面试历史.md",
+                "file": "项目/卡码信息.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试历史"
+              "title": "卡码信息"
+            }
+          },
+          {
+            "id": "dede6c7a1ef0f6dc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.yuque.com/chengxuyuancarl/zsqzgh/ngeiylt1neggs56h",
+                "title": "1. 项目简历写法",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "1. 项目简历写法"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -217,13 +231,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/dashboard/面试历史.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试历史 的大纲"
+              "title": "Outline"
             }
           },
           {
@@ -232,8 +245,8 @@
             "state": {
               "type": "mxmind-view",
               "state": {},
-              "icon": "network",
-              "title": "Mxmind"
+              "icon": "lucide-ghost",
+              "title": "mxmind-view"
             }
           },
           {
@@ -256,8 +269,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -269,57 +282,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
       "mxmind:Mxmind": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cbfb0b125dd4a0e",
+  "active": "dede6c7a1ef0f6dc",
   "lastOpenFiles": [
+    "项目/卡码信息.md",
+    "wiki/dashboard/面试历史.md",
+    "项目/代码随想录项目精讲系列-仿牛客论坛项目.pdf",
+    "项目/卡码网盘.md",
+    "wiki/索引/主题.md",
+    "wiki/追问/用友数据迁移.md",
+    "wiki/插件设置.md",
+    "wiki/追问/黑马点评秒杀.md",
+    "wiki/模板/README.md",
+    "wiki/模板/新追问QA.md",
+    "wiki/模板/新主题文章.md",
+    "wiki/模板/新面经原文.md",
+    "wiki/模板/新公司画像.md",
+    "wiki/模板/录音转面经.md",
+    "wiki/技术主题/RAG优化全链路.md",
+    "wiki/技术主题/TCP与HTTPS.md",
+    "wiki/技术主题/RPC与Netty.md",
+    "wiki/技术主题/消息队列不丢不重.md",
+    "wiki/技术主题/ElasticSearch 核心理念与高频面试考点.md",
+    "wiki/技术主题/RocketMQ事务消息.md",
+    "wiki/技术主题/设计模式.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "wiki/技术主题/RocketMQ 顺序消息、重试机制与 Rebalance 深度笔记.md",
+    "公司/小鹅通/我的/小鹅通一面面经（带答案已OC）.md",
+    "wiki/技术主题/限流熔断容错.md",
+    "wiki/技术主题/数据迁移与一致性.md",
+    "wiki/笔试面试技巧",
     "项目/卡码网盘_AI_pgvector.sql",
     "项目/卡码网盘_DDL.sql",
-    "项目/卡码网盘.md",
-    "公司/TT/SRE/TT SRE 二面.md",
-    "wiki/dashboard/面试历史.md",
-    "wiki/使用指南.md",
-    "README.md",
-    "wiki/公司/TT-TikTok.md",
-    "wiki/README.md",
-    "wiki/索引/主题.md",
-    "CLAUDE.md",
-    "wiki/公司/PingCAP.md",
-    "wiki/dashboard/公司爱考什么.md",
-    "wiki/追问/西门子RAG.md",
-    "wiki/插件设置.md",
-    "wiki/dashboard/主题统计.md",
-    "wiki/模板/录音转面经.md",
     "简历/2026-01-24_谭演锋_简历2026_2_12.pdf",
     "简历/2026-02-12_简历_谭演锋.pdf",
     "简历/2025-08-19_transcript.pdf",
     "简历/2025-09-15_resume_Yanfeng_Tan_9_16.pdf",
     "简历/2025-09-14_resume_Yanfeng_Tan_9_15.pdf",
     "简历/2025-08-19_resume_Yanfeng_Tan_8_16.pdf",
-    "简历/2025-09-17_resume_Yanfeng_Tan_10_3.pdf",
-    "简历/2025-10-11_Resume_Yanfeng_Tan——11.19.pdf",
-    "简历/2025-11-19_Resume_Yanfeng_Tan_11_20_total.pdf",
-    "wiki/可视化/README.md",
-    "wiki/可视化/wiki鸟瞰图.md",
-    "wiki/索引/高频考点榜.md",
-    "公司/其他/长鑫/长鑫存储.md",
-    "公司/其他/贝壳/贝壳找房一面面经.md",
-    "公司/其他/老虎国际/老虎国际二面面经（资讯组）.md",
-    "公司/其他/老虎国际/老虎国际一面面经（资讯组）.md",
-    "公司/其他/粉笔/粉笔上岸.md",
-    "公司/其他/心潮无限/1.md",
-    "公司/其他/PingCAP/面试问题总结.md",
     "img/Pasted image 20260312235921.png",
     "img/Pasted image 20260208151010.png",
     "img/Pasted image 20260205210548.png",
