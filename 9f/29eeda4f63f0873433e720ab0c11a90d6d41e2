@@ -1,0 +1,316 @@
+wiki/项目经验/订单库慢查询热点限流.md
+  s_30e81f12cef8e5::t_07ca29ae1b0e11 1-39,41-44,46-53,55-114 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a3138c2f93d05940c9196a4","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[1,39]},{"Range":[41,44]},{"Range":[46,53]},{"Range":[55,114]}]}]}
+  h_c96a6cba887aa0 40,45,54 gitai:{"mixed_line_ranges":[{"Single":40},{"Single":45},{"Single":54}],"operations":[]}
+wiki/项目经验/售后互斥锁演进.md
+  s_fa68eca8797a07::t_a01caaf9f08d49 1-88 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a320a8ff93d05940c91ad25","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[1,88]}]}]}
+wiki/我的简历/钟凌-逆向交易资金域-退款打款版.md
+  s_30e81f12cef8e5::t_9811166947cd6b 1-197 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a3172a4f93d05940c91ab41","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[1,197]}]}]}
+wiki/我的简历/钟凌-逆向交易资金域.md
+  s_30e81f12cef8e5::t_1737cc7c29621f 1-161 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a316216f93d05940c91a9cc","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[1,161]}]}]}
+wiki/项目经验/退款成功率优化.md
+  s_014433f28dab12::t_bc7d5e9f94500b 1-104 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a320a50f93d05940c91ace9","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[1,104]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9f29eeda4f63f0873433e720ab0c11a90d6d41e2",
+  "prompts": {},
+  "humans": {
+    "h_c96a6cba887aa0": {
+      "author": "zhongling.lingling <zhongling.lingling@bytedance.com>"
+    }
+  },
+  "sessions": {
+    "s_014433f28dab12": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a31615bf93d05940c91a8a4",
+        "model": "gpt-5.4__dev"
+      },
+      "human_author": "zhongling.lingling <zhongling.lingling@bytedance.com>"
+    },
+    "s_30e81f12cef8e5": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a313818f93d05940c919625",
+        "model": "gpt-5.4__dev"
+      },
+      "human_author": "zhongling.lingling <zhongling.lingling@bytedance.com>"
+    },
+    "s_fa68eca8797a07": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3209d8f93d05940c91ac8d",
+        "model": "gpt-5.4__dev"
+      },
+      "human_author": "zhongling.lingling <zhongling.lingling@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {
+    "wiki/我的简历/钟凌-逆向交易资金域-退款打款版.md": [
+      {
+        "hash": "s_30e81f12cef8e5::t_9811166947cd6b",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              197
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a3172a4f93d05940c91ab41",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  197
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wiki/我的简历/钟凌-逆向交易资金域.md": [
+      {
+        "hash": "s_30e81f12cef8e5::t_1737cc7c29621f",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              161
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a316216f93d05940c91a9cc",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  161
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wiki/项目经验/售后互斥锁演进.md": [
+      {
+        "hash": "s_fa68eca8797a07::t_a01caaf9f08d49",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              88
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a320a8ff93d05940c91ad25",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  88
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "wiki/项目经验/订单库慢查询热点限流.md": [
+      {
+        "hash": "s_30e81f12cef8e5::t_07ca29ae1b0e11",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              39
+            ]
+          },
+          {
+            "Range": [
+              41,
+              44
+            ]
+          },
+          {
+            "Range": [
+              46,
+              53
+            ]
+          },
+          {
+            "Range": [
+              55,
+              114
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a3138c2f93d05940c9196a4",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  39
+                ]
+              },
+              {
+                "Range": [
+                  41,
+                  44
+                ]
+              },
+              {
+                "Range": [
+                  46,
+                  53
+                ]
+              },
+              {
+                "Range": [
+                  55,
+                  114
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hash": "h_c96a6cba887aa0",
+        "line_ranges": [
+          {
+            "Single": 40
+          },
+          {
+            "Single": 45
+          },
+          {
+            "Single": 54
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 40
+          },
+          {
+            "Single": 45
+          },
+          {
+            "Single": 54
+          }
+        ],
+        "operations": []
+      }
+    ],
+    "wiki/项目经验/退款成功率优化.md": [
+      {
+        "hash": "s_014433f28dab12::t_bc7d5e9f94500b",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              104
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a320a50f93d05940c91ace9",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  104
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_014433f28dab12": {
+      "tool": "trae",
+      "conversation_id": "6a31615bf93d05940c91a8a4",
+      "session_id": "6a31615bf93d05940c91a8a4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_014433f28dab12::t_bc7d5e9f94500b": {
+      "tool": "trae",
+      "conversation_id": "6a31615bf93d05940c91a8a4",
+      "session_id": "6a31615bf93d05940c91a8a4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_30e81f12cef8e5": {
+      "tool": "trae",
+      "conversation_id": "6a313818f93d05940c919625",
+      "session_id": "6a313818f93d05940c919625",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_30e81f12cef8e5::t_07ca29ae1b0e11": {
+      "tool": "trae",
+      "conversation_id": "6a313818f93d05940c919625",
+      "session_id": "6a313818f93d05940c919625",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_30e81f12cef8e5::t_1737cc7c29621f": {
+      "tool": "trae",
+      "conversation_id": "6a313818f93d05940c919625",
+      "session_id": "6a313818f93d05940c919625",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_30e81f12cef8e5::t_9811166947cd6b": {
+      "tool": "trae",
+      "conversation_id": "6a313818f93d05940c919625",
+      "session_id": "6a313818f93d05940c919625",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_fa68eca8797a07": {
+      "tool": "trae",
+      "conversation_id": "6a3209d8f93d05940c91ac8d",
+      "session_id": "6a3209d8f93d05940c91ac8d",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_fa68eca8797a07::t_a01caaf9f08d49": {
+      "tool": "trae",
+      "conversation_id": "6a3209d8f93d05940c91ac8d",
+      "session_id": "6a3209d8f93d05940c91ac8d",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
